@@ -1,1 +1,11 @@
 # MathematicsML_Imperial
+
+## Linear Algebra
+
+### Vectors
+
+* Communitative: **r** **s** = **s** **r** 
+* Distributive: **r** (**s** + **t**) = **r** **s** + **r** **t**
+* Associative: **a** (**s** **t**) = (**a** **s**) **t**  
+
+Cosine Rule: $a^{2} = b^{2} + c^{2} - 2bc\cos \theta$
